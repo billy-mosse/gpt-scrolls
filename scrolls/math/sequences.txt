@@ -1,0 +1,7 @@
+Constant sequence: 0, 0, 0, 0, 0, 0 
+Alternating sequence: 0, 1, 0, 1, 0, 1 
+Increasing sequence: 1, 2, 3, 4, 5, 6
+Alternating sequence: 1, 2, 1, 2, 1, 2
+Decreasing sequence: 11, 10, 9, 8, 7, 6
+Constant sequence: 1, 1, 1, 1, 1, 1
+Alternating sequence: 854, 9, 854, 9, 854,
